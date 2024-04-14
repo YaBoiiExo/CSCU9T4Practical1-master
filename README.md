@@ -1,3 +1,2 @@
 # CSCU9T4Practical1
-I have no clue how to make folders. I've never used GitHub before, so I hope having the code should suffice, and then the peer reviewer can copy and paste it into a clone of their own project to see how it works.
-
+I believe I created this properly. If anything is wrong, apologies. You can just duplicate your own project and copy and paste the code from my GitHub to the duplicated classes to see how it works. Or you can do it that original way, whichever is easiest for you!
